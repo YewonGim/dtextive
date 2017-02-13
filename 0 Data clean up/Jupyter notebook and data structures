@@ -1,0 +1,9 @@
+Korean writing samples:
+    1. Gachon corpus: 237113 sentences (0_1)
+        data/univ_corpus.pkl : length, lable, sent, sentence with sentence length greater than 1
+    2. Naver Q and A corpus: 14480 sentences (0_2) 
+        data/naver_df.pkl: length, label, sent, sentence with sentence length greater than 1 (Also checked to make sure the string is english)
+    3. Lang-8 Korean corpus: 66259 sentences (0_3)
+        data/lang8_kor.pkl: length, label, sent, sentence with sentence length greater than 1 (Also checked to make sure the string is english)
+        
+        Total Korean Corpus: 317,852
